@@ -1,13 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Aug 25 21:40:01 2016
-
-@author: Sam
-"""
-
-#Calculate BMI
-#Heat map that shows how players with large BMIs over time hvae scored less
-#pts/o eff/per vs time 5 plots for each position
 import urllib
 from bs4 import BeautifulSoup
 import pandas as pd
